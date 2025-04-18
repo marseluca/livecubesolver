@@ -1,0 +1,1 @@
+var config = "bgcolor=ffffff"; config+="&movetext=1"; config+="&facelets=RBGGYGYROBORRWOWGWGYOYGBYWBGROYBWOOBWWBGRYWBYRBRROOYWG"; config+="&move=L' B2 R' D2 R' U2 F2 L2 B' F R2 D' R B2 U F2 D2 L2 B2 R'";
